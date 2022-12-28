@@ -1,4 +1,3 @@
-import emailjs from "@emailjs/browser";
 import Head from "next/head";
 
 const Contact = () => {
