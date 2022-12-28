@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@500&display=swap');
+
+body{
+  background-color:beige;
+  font-family:"Ibm Plex Serif";
+}
+a{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+}
+
+.content{
+  margin:0 auto;
+}
+nav {
+  background-color:rgb(110, 133, 134);
+  padding-right:20px;
+  padding-left: 100px;
+  margin:10px auto 80px;
+
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+nav a{
+  margin-left: 14px;
+  padding-right:100px;
+}
+nav a:hover{
+  color: rgb(95, 94, 94);
+}
+nav .logo{
+  margin-right:auto;
+}
+/* nav .logo img{
+  width:100px;
+  height:80px;
+} */
+footer{
+  display:block;
+  text-align: center;
+  padding: 30px 0;
+  margin-bottom:auto;
+  margin-top:60px;
+  color:rgb(97, 97, 97);
+  border-top: 1px solid rgb(97, 97, 97);
+
+
+}
+
+/* .inputs{
+  display: block;
+  text-align: center;
+  padding: 30px 0;
+} */
+
+.forum{ 
+  display: flex;
+  justify-content: center;
+}
+.form{
+  display:inline-block;
+  background-color: #a79875;
+  padding:20px 40px;
+  text-align: center;
+  border-radius: 48px;
+  margin-bottom: 20px;
+}
+
+input[type=text] {
+  display:flex;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid rgb(27, 19, 19);
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+button {
+  width: 20%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: 1px solid rgb(27, 19, 19);
+  border-radius: 4px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #39853b;
+}
+.msg {
+  display:flex;
+}
+.contactText{
+  display:flex;
+  justify-content: center;
+}
+
+span.aboutContent{
+  display:inline-block;
+  width: 800px;
+  text-align: center;
+  padding: 20px 20px;
+  background-color: #a79875;
+  font-size: large;
+  border-radius: 10px;
+}
+
+.about{
+  text-align: center;
+}
+
+.abouth1{
+  text-align: center;
+}
+
+.skillsHeader{
+  text-align: center;
+  font-size: 50px;
+}
+
+.linksTxt1{
+  text-align: center;
+  font-size: 90px;
+}
+
+.iconLink{
+  border-bottom: 1px solid rgb(97, 97, 97);
+}
+
+.skill{
+  margin:80px;
+}
+
+.not-found{
+  text-align: center;
+  font-size: 40px;
+}
+
+.not-found a{
+  color: rgb(75, 108, 170);
+  font-size:70px;
+  text-decoration: underline;
+}
+
+.not-found a:hover{
+  color: rgb(65, 83, 117);
+}
