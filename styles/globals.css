@@ -51,11 +51,6 @@ footer{
 
 }
 
-/* .inputs{
-  display: block;
-  text-align: center;
-  padding: 30px 0;
-} */
 
 .forum{ 
   display: flex;
@@ -107,7 +102,7 @@ span.aboutContent{
   text-align: center;
   padding: 20px 20px;
   background-color: #a79875;
-  font-size: large;
+  font-size: 21px;
   border-radius: 10px;
 }
 

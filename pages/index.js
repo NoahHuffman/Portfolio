@@ -24,7 +24,7 @@ export default function Home() {
         <div><h1 className="linksTxt1">Links</h1></div>
         <div className={styles.iconLinks}>
           <Link legacyBehavior href="https://github.com/NoahHuffman"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></Link>
-          <Link legacyBehavior href="/"><img src="resumeIcon.png"/></Link>
+          <Link legacyBehavior href="https://docs.google.com/document/d/1D0vR87UVTHDM8qblFFVxcznlV41OuLPxoQ2feYzTh9Q/edit"><img src="resumeIcon.png"/></Link>
           <Link legacyBehavior href="https://www.linkedin.com/in/noah-huffman-5a25751b7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></Link>
         </div>
       </div>

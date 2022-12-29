@@ -10,17 +10,15 @@ const About = () => {
 
             <h1 className="abouth1">About Me</h1>
             <div className="about">
-                <span className="aboutContent">Lorem ipsum dolor sit amet, 
-                consectetur adipiscing elit. Sed quis sodales risus. 
-                Aliquam gravida, ligula vel blandit ullamcorper, augue 
-                urna lobortis libero, sed consectetur nulla odio in justo. 
-                Praesent porttitor mi at dolor dapibus pulvinar. Etiam 
-                tincidunt, dui vel venenatis pellentesque, odio lorem 
-                pharetra ante, ac consequat lectus ipsum id lectus. 
-                Praesent et interdum libero, eu rutrum justo. Nullam 
-                venenatis fringilla turpis vulputate tincidunt. 
-                Pellentesque non lacinia nisi. Nullam tempus quam 
-                eu purus congue aliquam.</span>
+                <span className="aboutContent">
+                    Hello there! My name is Noah Huffman, and I am a 20 year old software developer. 
+                    I am currently enrolled at the University of Tennessee at Chattanooga where I plan to earn a Bachelor of 
+                    Computer Science degree in about a year. I have been learning software development since 2020, and have worked with 
+                    roughly 10 languages, and multiple frameworks. 
+                    <br/><br/>I absolutely love coding and problem solving, and I am excited to become 
+                    a professional developer in the future. I enjoy fishing, spending time with loved ones, and reading. 
+                    I am passionate about expanding my knowledge, software development, and serving my church family and community.
+                </span>
             </div>
         </div>
      );
