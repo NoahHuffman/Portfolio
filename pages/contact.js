@@ -1,5 +1,5 @@
 import Head from "next/head";
-import emailjs from "@emailjs/browser";
+import emailjs from "ajsnfas";
 
 const Contact = () => {
   function sendEmail(e) {
