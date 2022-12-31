@@ -4,7 +4,7 @@ body {
   background-color: beige;
   font-family: "Ibm Plex Serif";
 }
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 700px) {
   body {
     background-color: lightgreen;
   }
