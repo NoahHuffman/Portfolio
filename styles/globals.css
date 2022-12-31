@@ -43,45 +43,6 @@ footer {
   color: rgb(97, 97, 97);
   border-top: 1px solid rgb(97, 97, 97);
 }
-@media screen and (max-width: 900px) {
-  nav a {
-    margin: auto;
-    padding: auto;
-  }
-  a {
-    font-size: large;
-  }
-  footer {
-    width: fit-content;
-  }
-  .forum {
-    width: fit-content;
-  }
-  .form {
-    width: fit-content;
-  }
-  .contactText {
-    width: fit-content;
-  }
-  span.aboutContent {
-    width: fit-content;
-  }
-  .about {
-    width: fit-content;
-  }
-
-  .abouth1 {
-    width: fit-content;
-  }
-
-  .skillsHeader {
-    width: fit-content;
-  }
-
-  .linksTxt1 {
-    width: fit-content;
-  }
-}
 
 .forum {
   display: flex;
@@ -177,4 +138,45 @@ span.aboutContent {
 
 .not-found a:hover {
   color: rgb(65, 83, 117);
+}
+
+/* ############### Smaller Devices ############### */
+@media screen and (max-width: 900px) {
+  nav a {
+    margin: auto;
+    padding: auto;
+  }
+  a {
+    font-size: large;
+  }
+  footer {
+    width: fit-content;
+  }
+  .forum {
+    width: fit-content;
+  }
+  .form {
+    width: fit-content;
+  }
+  .contactText {
+    width: fit-content;
+  }
+  span.aboutContent {
+    width: fit-content;
+  }
+  .about {
+    width: fit-content;
+  }
+
+  .abouth1 {
+    width: fit-content;
+  }
+
+  .skillsHeader {
+    width: fit-content;
+  }
+
+  .linksTxt1 {
+    width: fit-content;
+  }
 }

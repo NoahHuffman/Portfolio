@@ -1,7 +1,3 @@
-// "eslint": "8.30.0",
-// "eslint-config-next": "^12.0.4",
-// in package.json
-
 import Head from "next/head";
 import Image from "next/image";
 import { Inter } from "@next/font/google";
