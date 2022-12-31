@@ -10,11 +10,12 @@ const About = () => {
       <h1 className="abouth1">About Me</h1>
       <div className="about">
         <span className="aboutContent">
-          Hello there! My name is Noah Huffman, and I am a 20 year old software
-          developer. I am currently enrolled at the University of Tennessee at
-          Chattanooga where I plan to earn a Bachelor of Computer Science degree
-          in about a year. I have been learning software development since 2020,
-          and have worked with roughly 10 languages, and multiple frameworks.
+          Hello there!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! My name is Noah Huffman, and
+          I am a 20 year old software developer. I am currently enrolled at the
+          University of Tennessee at Chattanooga where I plan to earn a Bachelor
+          of Computer Science degree in about a year. I have been learning
+          software development since 2020, and have worked with roughly 10
+          languages, and multiple frameworks.
           <br />
           <br />
           <br />I absolutely love coding and problem solving, and I am excited
