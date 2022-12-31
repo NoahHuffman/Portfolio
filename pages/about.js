@@ -16,6 +16,7 @@ const About = () => {
           in about a year. I have been learning software development since 2020,
           and have worked with roughly 10 languages, and multiple frameworks.
           <br />
+          <br />
           <br />I absolutely love coding and problem solving, and I am excited
           to become a professional developer in the future. I enjoy fishing,
           spending time with loved ones, and reading. I am passionate about
