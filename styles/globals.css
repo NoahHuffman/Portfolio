@@ -3,25 +3,21 @@
 body {
   background-color: beige;
   font-family: "Ibm Plex Serif";
-  width: fit-content;
 }
 a {
   text-decoration: none;
   color: rgb(0, 0, 0);
   font-size: 30px;
-  width: fit-content;
 }
 
 .content {
   margin: 0 auto;
-  width: fit-content;
 }
 nav {
   background-color: rgb(110, 133, 134);
   padding-right: 20px;
   padding-left: 100px;
   margin: 10px auto 80px;
-  width: fit-content;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -31,7 +27,6 @@ nav {
 nav a {
   margin-left: 14px;
   padding-right: 100px;
-  width: fit-content;
 }
 nav a:hover {
   color: rgb(95, 94, 94);
@@ -47,13 +42,11 @@ footer {
   margin-top: 60px;
   color: rgb(97, 97, 97);
   border-top: 1px solid rgb(97, 97, 97);
-  width: fit-content;
 }
 
 .forum {
   display: flex;
   justify-content: center;
-  width: fit-content;
 }
 .form {
   display: inline-block;
@@ -62,7 +55,6 @@ footer {
   text-align: center;
   border-radius: 48px;
   margin-bottom: 20px;
-  width: fit-content;
 }
 
 input[type="text"] {
@@ -94,7 +86,6 @@ button:hover {
 .contactText {
   display: flex;
   justify-content: center;
-  width: fit-content;
 }
 
 span.aboutContent {
@@ -105,52 +96,43 @@ span.aboutContent {
   background-color: #a79875;
   font-size: 21px;
   border-radius: 10px;
-  width: fit-content;
 }
 
 .about {
   text-align: center;
-  width: fit-content;
 }
 
 .abouth1 {
   text-align: center;
-  width: fit-content;
 }
 
 .skillsHeader {
   text-align: center;
   font-size: 50px;
-  width: fit-content;
 }
 
 .linksTxt1 {
   text-align: center;
   font-size: 90px;
-  width: fit-content;
 }
 
 .iconLink {
   border-bottom: 1px solid rgb(97, 97, 97);
-  width: fit-content;
 }
 
 .skill {
   margin: 80px;
-  width: fit-content;
 }
 
 .not-found {
   text-align: center;
   font-size: 40px;
-  width: fit-content;
 }
 
 .not-found a {
   color: rgb(75, 108, 170);
   font-size: 70px;
   text-decoration: underline;
-  width: fit-content;
 }
 
 .not-found a:hover {
