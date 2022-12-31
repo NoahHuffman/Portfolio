@@ -1,14 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@500&display=swap");
 
-@media screen and (max-width: 480px) {
-  body {
-    background-color: lightgreen;
-  }
-}
-
 body {
   background-color: beige;
   font-family: "Ibm Plex Serif";
+}
+@media screen and (min-width: 480px) {
+  body {
+    background-color: lightgreen;
+  }
 }
 a {
   text-decoration: none;
