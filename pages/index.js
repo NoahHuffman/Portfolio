@@ -13,6 +13,7 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <div>
+      <meta name="viewport" content="width=device-width, initial-scale=1" />;
       <Head>
         <title>Noah H. | Home</title>
         <meta
@@ -24,7 +25,6 @@ export default function Home() {
         <h1>Noah Huffman</h1>
         <img src="profile-pic (1).png"></img>
       </div>
-
       <div className="iconLink">
         <div>
           <h1 className="linksTxt1">Links</h1>

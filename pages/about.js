@@ -3,10 +3,10 @@ import Head from "next/head";
 const About = () => {
   return (
     <div>
+      <meta name="viewport" content="width=device-width, initial-scale=1" />;
       <Head>
         <title>Noah H. | About</title>
       </Head>
-
       <h1 className="abouth1">About Me</h1>
       <div className="about">
         <span className="aboutContent">
