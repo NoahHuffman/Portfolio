@@ -1,18 +1,3 @@
-@media screen and (max-width: 900px) {
-  .content {
-    min-height: fit-content;
-    width: fit-content;
-  }
-  .container {
-    width: fit-content;
-  }
-  .container h1 {
-    width: fit-content;
-  }
-  .container img {
-    width: fit-content;
-  }
-}
 .content {
   min-height: 100vh;
   position: relative;
@@ -350,4 +335,8 @@
   to {
     transform: rotate(0deg);
   }
+}
+
+/* ############### Smaller Devices ############### */
+@media screen and (max-width: 900px) {
 }

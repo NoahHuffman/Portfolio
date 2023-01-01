@@ -17,7 +17,7 @@ nav {
   background-color: rgb(110, 133, 134);
   padding-right: 20px;
   padding-left: 100px;
-  margin: 10px auto 80px;
+  margin: 0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -142,41 +142,4 @@ span.aboutContent {
 
 /* ############### Smaller Devices ############### */
 @media screen and (max-width: 900px) {
-  nav a {
-    margin: auto;
-    padding: auto;
-  }
-  a {
-    font-size: large;
-  }
-  footer {
-    width: fit-content;
-  }
-  .forum {
-    width: fit-content;
-  }
-  .form {
-    width: fit-content;
-  }
-  .contactText {
-    width: fit-content;
-  }
-  span.aboutContent {
-    width: fit-content;
-  }
-  .about {
-    width: fit-content;
-  }
-
-  .abouth1 {
-    width: fit-content;
-  }
-
-  .skillsHeader {
-    width: fit-content;
-  }
-
-  .linksTxt1 {
-    width: fit-content;
-  }
 }
