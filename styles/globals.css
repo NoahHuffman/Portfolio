@@ -52,6 +52,7 @@ footer {
 }
 
 .form {
+  margin: 90px auto 80px;
   display: inline-block;
   background-color: #a79875;
   padding: 20px 40px;
@@ -99,11 +100,11 @@ span.aboutContent {
   background-color: #a79875;
   font-size: 21px;
   border-radius: 10px;
+  margin: 40px auto 80px;
 }
 
 .about {
   text-align: center;
-  margin: 40px auto 80px;
 }
 
 .abouth1 {
