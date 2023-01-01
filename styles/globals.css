@@ -48,11 +48,10 @@ footer {
 .forum {
   display: flex;
   justify-content: center;
-  margin: 90px auto 80px;
 }
 
 .form {
-  margin: 90px auto 80px;
+  margin: 40px auto 80px;
   display: inline-block;
   background-color: #a79875;
   padding: 20px 40px;
