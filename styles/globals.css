@@ -48,6 +48,7 @@ footer {
 .forum {
   display: flex;
   justify-content: center;
+  margin: 90px auto 80px;
 }
 
 .form {
@@ -102,6 +103,7 @@ span.aboutContent {
 
 .about {
   text-align: center;
+  margin: 40px auto 80px;
 }
 
 .abouth1 {
