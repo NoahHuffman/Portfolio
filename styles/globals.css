@@ -13,6 +13,7 @@ a {
 
 .content {
   margin: 0;
+  width: fit-content;
 }
 nav {
   background-color: rgb(110, 133, 134);
@@ -23,11 +24,13 @@ nav {
   justify-content: center;
   align-items: center;
   border-bottom: 1px solid rgb(0, 0, 0);
+  width: fit-content;
 }
 
 nav a {
   margin-left: 14px;
   padding-right: 100px;
+  width: fit-content;
 }
 nav a:hover {
   color: rgb(95, 94, 94);
@@ -144,7 +147,7 @@ span.aboutContent {
 }
 
 /* ############### Smaller Devices ############### */
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 900px) {
   nav {
     padding-right: auto;
     padding-left: auto;
@@ -155,7 +158,7 @@ span.aboutContent {
     text-align: center;
   }
   footer {
-    width: max-content;
+    width: fit-content;
   }
   .skillsHeader {
     text-align: center;
@@ -163,6 +166,6 @@ span.aboutContent {
   }
   .linksTxt1 {
     text-align: center;
-    font-size: larger;
+    font-size: x-large;
   }
 }
