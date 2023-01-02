@@ -345,6 +345,7 @@
   }
   .container h1 {
     text-align: center;
+    width: min-content;
   }
   .container img {
     text-align: center;

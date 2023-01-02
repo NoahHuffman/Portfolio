@@ -163,6 +163,9 @@ span.aboutContent {
   nav a {
     font-size: xx-large;
     padding: 9px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: auto;
   }
   footer {
     width: fit-content;
