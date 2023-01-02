@@ -24,13 +24,19 @@ nav {
   justify-content: center;
   align-items: center;
   border-bottom: 1px solid rgb(0, 0, 0);
-  width: fit-content;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 nav a {
   margin-left: 14px;
-  padding-right: 100px;
+  /* padding-right: 100px; */
   width: fit-content;
+  float: right;
+}
+nav a.active {
+  background-color: rgb(52, 87, 91);
 }
 nav a:hover {
   color: rgb(95, 94, 94);
@@ -162,10 +168,10 @@ span.aboutContent {
   }
   .skillsHeader {
     text-align: center;
-    font-size: larger;
+    font-size: medium;
   }
   .linksTxt1 {
     text-align: center;
-    font-size: x-large;
+    font-size: xx-large;
   }
 }
