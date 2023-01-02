@@ -340,12 +340,13 @@
 
 /* ############### Smaller Devices ############### */
 @media screen and (max-width: 900px) {
-  .container h1 {
+  .container {
     display: block;
+  }
+  .container h1 {
     text-align: center;
   }
   .container img {
-    display: block;
     text-align: center;
   }
 }
