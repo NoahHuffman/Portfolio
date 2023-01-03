@@ -38,15 +38,15 @@ export default function Home() {
             href="https://docs.google.com/document/d/1D0vR87UVTHDM8qblFFVxcznlV41OuLPxoQ2feYzTh9Q/edit"
           >
             <img src="resumeIcon.png" />
-            resume
           </Link>
+          resume
           <Link
             legacyBehavior
             href="https://www.linkedin.com/in/noah-huffman-5a25751b7/"
           >
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-            linkedin
           </Link>
+          linkedin
         </div>
       </div>
       <div className="skill">
