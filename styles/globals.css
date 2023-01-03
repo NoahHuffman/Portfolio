@@ -161,14 +161,15 @@ span.aboutContent {
     padding-left: auto;
   }
   nav a {
-    font-size: xx-large;
+    font-size: 90%;
     padding: 9px;
     margin-right: auto;
     margin-left: auto;
     padding-right: auto;
   }
   footer {
-    width: fit-content;
+    width: 100%;
+    text-align: center;
   }
   .skillsHeader {
     text-align: center;
@@ -176,9 +177,9 @@ span.aboutContent {
   }
   .linksTxt1 {
     text-align: center;
-    font-size: xx-large;
+    font-size: 90%;
   }
   a {
-    color: #ff0015;
+    padding-left: 8px;
   }
 }
