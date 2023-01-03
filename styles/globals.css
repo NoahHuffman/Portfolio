@@ -156,7 +156,8 @@ span.aboutContent {
 /* ############### Smaller Devices ############### */
 @media screen and (max-width: 900px) {
   .content {
-    width: fit-content;
+    /* width: fit-content; */
+    width: device-width;
   }
   nav {
     width: 100%;
