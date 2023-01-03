@@ -350,6 +350,7 @@
     text-align: center;
   }
   .container img {
+    padding-right: auto;
     margin-left: auto;
     margin-right: auto;
     text-align: center;

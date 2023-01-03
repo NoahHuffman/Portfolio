@@ -161,7 +161,7 @@ span.aboutContent {
     padding-left: auto;
   }
   nav a {
-    font-size: 90%;
+    font-size: xx-large;
     padding: 9px;
     margin-right: auto;
     margin-left: auto;
@@ -178,15 +178,9 @@ span.aboutContent {
   }
   .linksTxt1 {
     text-align: center;
-    font-size: 90%;
+    font-size: xx-large;
   }
   a {
     padding-left: 28px;
-  }
-  .forum {
-    padding-bottom: 70px;
-  }
-  .about {
-    padding-bottom: 70px;
   }
 }
