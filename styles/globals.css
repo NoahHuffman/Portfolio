@@ -37,7 +37,7 @@ nav a {
   margin-right: 54px;
 }
 nav a.active {
-  background-color: rgb(8, 135, 149);
+  background-color: rgb(149, 8, 8);
 }
 nav a:hover {
   color: rgb(95, 94, 94);
@@ -157,10 +157,12 @@ span.aboutContent {
 /* ############### Smaller Devices ############### */
 @media screen and (max-width: 900px) {
   nav {
+    width: 100%;
     padding-right: auto;
     padding-left: auto;
   }
   nav a {
+    width: 100%;
     font-size: xx-large;
     padding: 9px;
     margin-right: auto;
@@ -182,5 +184,11 @@ span.aboutContent {
   }
   a {
     padding-left: 28px;
+  }
+  .forum {
+    width: 100%;
+  }
+  .about {
+    width: 100%;
   }
 }
