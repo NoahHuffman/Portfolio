@@ -159,6 +159,7 @@ span.aboutContent {
     width: fit-content;
   }
   span.aboutContent {
+    /* width: 100%; */
     font-size: 20px;
   }
   nav {
