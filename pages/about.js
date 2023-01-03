@@ -6,9 +6,9 @@ const About = () => {
       <Head>
         <title>Noah H. | About</title>
       </Head>
-      <h1 className="abouth1">About Me</h1>
       <div className="about">
         <span className="aboutContent">
+          <h1 className="abouth1">About Me</h1>
           Hello there! My name is Noah Huffman, and I am a 20 year old software
           developer. I am currently enrolled at the University of Tennessee at
           Chattanooga where I plan to earn a Bachelor of Computer Science degree
