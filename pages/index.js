@@ -11,10 +11,11 @@ export default function Home() {
     <div>
       <Head>
         <title>Noah H. | Home</title>
-        <meta
+        {/* <meta
           name="keywords"
           content="software developer, web developer, portfolio"
-        />
+        /> */}
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <div className={styles.container}>
         <h1>Noah Huffman</h1>
