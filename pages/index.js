@@ -31,7 +31,6 @@ export default function Home() {
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
               x
             />
-            github
           </Link>
           <Link
             legacyBehavior
@@ -39,14 +38,12 @@ export default function Home() {
           >
             <img src="resumeIcon.png" />
           </Link>
-          resume
           <Link
             legacyBehavior
             href="https://www.linkedin.com/in/noah-huffman-5a25751b7/"
           >
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
           </Link>
-          linkedin
         </div>
       </div>
       <div className="skill">

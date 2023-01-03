@@ -158,6 +158,9 @@ span.aboutContent {
   .content {
     width: fit-content;
   }
+  span.aboutContent {
+    font-size: 20px;
+  }
   nav {
     width: 100%;
     padding-right: auto;
@@ -189,8 +192,10 @@ span.aboutContent {
   }
   .forum {
     width: 100%;
+    font-size: 20px;
   }
   .about {
     width: 100%;
+    font-size: 20px;
   }
 }
