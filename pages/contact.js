@@ -32,7 +32,7 @@ const Contact = () => {
 
       <div className="forum">
         <form className="form" onSubmit={sendEmail} method="post">
-          <h1 className="contactText">Contact me!</h1>
+          <h1 className="contactText">contact me!</h1>
           <input
             name="nameID"
             id="nameID"
