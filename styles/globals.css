@@ -1,13 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@500&display=swap");
 
 body {
-  background-color: beige;
+  background-color: #000000;
   font-family: "Ibm Plex Serif";
   margin: 0;
 }
 a {
   text-decoration: none;
-  color: rgb(0, 0, 0);
+  color: #3f0071;
   font-size: 30px;
 }
 
@@ -16,7 +16,7 @@ a {
   width: 100%;
 }
 nav {
-  background-color: rgb(110, 133, 134);
+  background-color: #150050;
   /* padding-right: 20px;
   padding-left: 100px; */
   margin: 0;
@@ -34,6 +34,7 @@ nav a {
   width: auto;
   float: right;
   margin-right: 54px;
+  color: #3f0071;
 }
 nav a.active {
   background-color: rgb(149, 8, 8);
@@ -123,6 +124,7 @@ span.aboutContent {
 .skillsHeader {
   text-align: center;
   font-size: 50px;
+  color: #fb2576;
 }
 
 .linksTxt1 {
