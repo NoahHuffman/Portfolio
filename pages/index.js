@@ -34,7 +34,7 @@ export default function Home() {
           </Link>
           <Link
             legacyBehavior
-            href="https://docs.google.com/document/d/1D0vR87UVTHDM8qblFFVxcznlV41OuLPxoQ2feYzTh9Q/edit"
+            href="https://drive.google.com/file/d/1WTfRKsnRRdy72dKm3xLz66DcXhx6rOZJ/view?usp=drive_link"
           >
             <img src="resumeIcon.png" />
           </Link>
